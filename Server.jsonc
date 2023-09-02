@@ -1,0 +1,41 @@
+// Json - Estructuar Datos
+
+// Propiedad - Nombrar Objectos
+// Valor - Contenido de Objecto - Tipos de Datos
+
+// Sintaxis en Json
+{
+    "title" : "users", // String
+    "name_one" : "neo", // String
+    "nickName" : "neo10", // String - Number
+    "number_users" : 100, // Number Interger
+    "users" : 10.0, // Number Float
+    "password" : false, // Boolean
+    "job" : ["developer", "programmer"] // Array
+}
+
+// Objecto
+{
+    "propiedad" :{
+        "propiedad" : 16,
+    }{
+    "propiedad" : [
+        {"id" : 0},
+        {"id" : 1}
+    ]
+    }
+}
+
+//Arrray en Forma de Objecto
+{
+[
+    {
+        "propiedad" : 25,
+    },
+    {
+        "propiedad" : true,
+    },
+]
+}
+
+

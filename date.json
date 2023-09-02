@@ -1,0 +1,31 @@
+{
+    "title" : "users",
+    "name_one" : "neo",
+    "nickName" : "neo10",
+    "number_users" : 100,
+    "users" : 10.0,
+    "password" : false,
+    "job" : ["developer", "programmer"]
+}
+
+{
+    "propiedad" :{
+        "propiedad" : 16,
+    }{
+    "propiedad" : [
+        {"id" : 0},
+        {"id" : 1}
+    ]
+    }
+}
+
+{
+[
+    {
+        "propiedad" : 25,
+    },
+    {
+        "propiedad" : true,
+    },
+]
+}
