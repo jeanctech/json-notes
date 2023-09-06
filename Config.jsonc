@@ -1,0 +1,15 @@
+//Config en Json
+
+{
+    "title" : "users",
+    "name_one" : "neo",
+    "nickName" : "neo10",
+    "number_users" : 100,
+    "users" : 10.0,
+    "password" : false,
+    "job" : ["developer", "programmer"],
+
+    "propiedad" :{
+        "propiedad" : 16,
+    }
+}
