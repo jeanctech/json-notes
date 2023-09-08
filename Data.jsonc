@@ -1,0 +1,12 @@
+// Data en Json
+
+{
+    "propiedad" :{
+        "propiedad" : 16,
+    }{
+    "propiedad" : [
+        {"id" : 0},
+        {"id" : 1}
+    ]
+    }
+}
