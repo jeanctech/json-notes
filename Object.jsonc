@@ -1,0 +1,11 @@
+// Object
+
+{
+    "property" :{
+        "property" : 16
+    },
+    "properties" : {
+    "id-one" : 0,
+    "id-two" : 1
+    }
+}

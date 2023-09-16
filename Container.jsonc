@@ -1,9 +1,0 @@
-// Container en Json
-
-{
-    "data" :{
-        "name" : "leo",
-        "age" : 24,
-        "last_name" : "joe"
-    }
-}

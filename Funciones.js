@@ -1,17 +1,17 @@
-// Funciones en JavaScript con Json
+// Functions in JavaScript with Json
 
 const user = {
     "name" : "Neo",
     "age" : "20",
     "lastname" : "ray",
-    "married" : "false",
+    "married": "false",
     greet(){
         return 'Hello'
     },
-    //Funcion sin Parametro
-    sommething(){}
+    //Function without Parameter
+    somthing(){}
 }
 
-// Funcion de Objectos con Json
+// Object function with Json
 
 console.log(user.greet())

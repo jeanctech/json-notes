@@ -1,4 +1,4 @@
-// Objectos en JavaScript
+// Objects in JavaScript
 
 const user = {
     "name" : "Neo",
@@ -12,7 +12,7 @@ console.log(user);
 
 console.log(JSON.stringify(user))
 
-// Convertir Objectos a Json
+// Convert Objects to Json
 
 const friends = [
     {name: "leo", lastname: "joe", age: 23},

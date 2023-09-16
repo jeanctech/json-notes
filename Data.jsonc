@@ -7,5 +7,10 @@
     "number_users" : 100,
     "users" : 10.0,
     "password" : false,
-    "job" : ["developer", "programmer"]
+    "job" : ["developer", "programmer"],
+    "data_user" :{
+        "name" : "leo",
+        "age" : 24,
+        "last_name" : "joe"
+    }
 }

@@ -1,0 +1,12 @@
+//Array in Object Form
+
+{
+    "properties" : [
+        {
+        "property_one" : 25
+        },
+        {
+        "property_two" : true
+        }
+    ]
+}
