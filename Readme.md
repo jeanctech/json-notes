@@ -6,10 +6,6 @@
 
 Json - JavaScript Object Notation is a simple text format for exchanging data. It is a subset of JavaScript's object literal notation, although due to its widespread adoption as an alternative to XML, it is considered a language-independent format
 
-## Introduction
-
-One of the supposed advantages of Json over Xml as a data exchange format is that it is much easier to write a parser for it. In JavaScript, a Json text can be easily parsed using the eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been essential for it to have been accepted by the Ajax developer community
-
 ## Index
 
 * [Introduction](https://youtu.be/Kp4Mvapo5kc)
@@ -45,12 +41,9 @@ One of the supposed advantages of Json over Xml as a data exchange format is tha
 * [Lesson 30 - Conclusions](https://youtu.be/Kp4Mvapo5kc?t=10872)
 * [Next steps](https://youtu.be/Kp4Mvapo5kc?t=36390)
 
+## Introduction
 
-
-**12. Proyectos Prácticos (Opcional):**
-   - Desarrollo de proyectos prácticos que involucren el uso de JSON.
-
-A medida que avances a través de este temario, te familiarizarás con los conceptos básicos y avanzados de JSON, lo que te permitirá trabajar con datos estructurados de manera efectiva en aplicaciones y sistemas de todo tipo.
+One of the supposed advantages of Json over Xml as a data exchange format is that it is much easier to write a parser for it. In JavaScript, a Json text can be easily parsed using the eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been essential for it to have been accepted by the Ajax developer community
 
 ## Important information and frequently asked questions
 
