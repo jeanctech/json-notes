@@ -1,0 +1,14 @@
+// Objects in JavaScript
+
+{
+    "name" : "Neo",
+    "age" : "20",
+    "lastname" : "ray",
+    "married" : "false",
+    "date":
+    [
+        {"name": "leo", "lastname": "joe", "age": 23},
+        {"name": "neo", "lastname": "jhon", "age": 25},
+        {"name": "jeo", "lastname": "doe", "age": 18}
+    ]
+}
