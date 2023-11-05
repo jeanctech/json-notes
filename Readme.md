@@ -4,61 +4,68 @@
 
 ## What is Json?
 
-Json - JavaScript Object Notation is a simple text format for exchanging data. It is a subset of JavaScript's object literal notation, although due to its widespread adoption as an alternative to XML, it is considered a language-independent format
+Json JavaScript object notation is a simple text format for exchanging data. It's a
+subset of JavaScript's object literal notation, although due to its widespread adoption
+As an alternative to Xml, it is considered a language-independent format.
 
 ## Index
 
-* [Introduction]()
-* [Lesson 1 - Data Structure]()
-* [Lesson 2 - Json Objects]()
-* [Lesson 3 - Json Arrays]()
-* [Lesson 4 - Data types supported in Json]()
-* [Lesson 5 - Using commas and colons in syntax]()
-* [Lesson 6 - How to create Json objects]()
-* [Lesson 7 - How to create Json arrays]()
-* [Lesson 8 - Nesting of objects and arrays]()
-* [Lesson 9 - Comments in Json]()
-* [Lesson 10 - How to access values inside a Json object]()
-* [Lesson 11 - How to access elements in a Json array]()
-* [Lesson 12 - Data in a Json object.]()
-* [Lesson 13 - Elements in a Json array.]()
-* [Lesson 14 - Methods to validate Json syntax]()
-* [Lesson 15 - Validate the structure of your Json data]()
-* [Lesson 16 - Data communication in web applications]()
-* [Lesson 17 - Data storage and retrieval]()
-* [Lesson 18 - Application Configuration]()
-* [Lesson 19 - Consume and produce Json data]()
-* [Lesson 20 - Good practices when working with Json]()
-* [Lesson 21 - Avoid common problems.]()
-* [Lesson 22 - Official Json Documentation]()
-* [Lesson 23 - Using Json Web Tokens - Jwt]()
-* [Lesson 24 - Using Json in WebSockets Systems]()
-* [Lesson 25 - Using Json]()
-* [Lesson 26 - Json Schema]()
-* [Lesson 27 - Libraries and tools to work with Json]()
-* [Lesson 28 - History and purpose of Json]()
-* [Lesson 29 - Why Json is important ]()
-* [Lesson 30 - Conclusions]()
-* [Next steps]()
+* [Json Introduction](Json-Introduction.jsonc)
+* [Lesson 1 - Data Structure](Data-Structure.jsonc)
+* [Lesson 2 - Objects in Json](Objects-in-Json.jsonc)
+* [Lesson 3 - Arrays in Json](Arrays-in-Json.jsonc)
+* [Lesson 4 - Data Types](Data-Types.jsonc)
+* [Lesson 5 - Json Syntax](Json-Syntax.jsonc)
+* [Lesson 6 - Object Creation](Object-Creation.jsonc)
+* [Lesson 7 - Creating of Arrays](Creation-of-Arrays.jsonc)
+* [Lesson 8 - Nesting Objects and Arrays](Nesting-of-Objects-and-Arrays.jsonc)
+* [Lesson 9 - Comments in Json](Comments-in-Json.jsonc)
+* [Lesson 10 - Values inside a Json object](Values-inside-an-Object.jsonc)
+* [Lesson 11 - Elements Within an Array](Elements-Within-an-Array.jsonc)
+* [Lesson 12 - Data in an Object](Data-in-an-Object.jsonc)
+* [Lesson 13 - Elements in an Array](Elements-in-an-Array.jsonc)
+* [Lesson 14 - Validate Syntax](Validate-Syntax.jsonc)
+* [Lesson 15 - Structure of your Data](Structure-of-your-Data.jsonc)
+* [Lesson 16 - Data Communication](Data-Communications.jsonc)
+* [Lesson 17 - Storage and Retrieval of Data](Storage-and-Retrieval-of-Data.jsonc)
+* [Lesson 18 - Json Configuration](Json-Configuration.jsonc)
+* [Lesson 19 - Consume and Produce Data](Consume-and-Produce-Data.jsonc)
+* [Lesson 20 - Good Practices - Json](Good-Practices.jsonc)
+* [Lesson 21 - Common Problems](Common-Problems.jsonc)
+* [Lesson 22 - Json Tools](Json-Tools.jsonc)
+* [Lesson 23 - Using of Web Tokens](Use-of-Web-Tokens.jsonc)
+* [Lesson 24 - Using Json WebSockets](Using-Json-Websockets.jsonc)
+* [Lesson 25 - Uses of Json](Uses-of-Json.jsonc)
+* [Lesson 26 - Json Schema](Json-Schema.jsonc)
+* [Lesson 27 - Json Libraries](Json-Libraries.jsonc)
+* [Lesson 28 - Json History](Json-History.jsonc)
+* [Lesson 29 - Importance of Json](Importance-of-Json.jsonc)
+* [Lesson 30 - Conclusions](Json-Conclusions.jsonc)
+* [Next Steps](Next-Steps.jsonc)
 
 ## Introduction
 
-One of the supposed advantages of Json over Xml as a data exchange format is that it is much easier to write a parser for it. In JavaScript, a Json text can be easily parsed using the eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been essential for it to have been accepted by the Ajax developer community
+One of the supposed advantages of Json over Xml as a data exchange format is that it is much more
+easy to write a parser for it. In JavaScript, a Json text can be easily parsed using the
+eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been
+essential for it to have been accepted by the Ajax developer community.
 
 ## Important information and frequently asked questions
 
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was
+the initial objective of the project. And then I don't rule out adding new lessons in the future, but I think that
+For now, it can serve as a base for anyone who wants to start learning this language.
 
-* As soon as the course continues, I will update the repository and notify the networks.
+*As soon as the course continues I will update the repository and notify the networks.
 Thank you very much for all the support shown!
 
-## Links of Interest
+## Links of interest
 
 * [Json official website](https://www.json.org/json-en.html)
 
-* [Official Json tutorial in Spanish](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
+* [Official Json tutorial in Spanish](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Json)
 
-* [30 Days of Json Repo](https://github.com/json-path/JsonPath)
+* [30 days Json Repo](https://github.com/json-path/JsonPath)
 
 * [FrecodeCamp game to Json](https://www.freecodecamp.org/espanol/news/tag/json/)
 
@@ -72,6 +79,6 @@ Thank you very much for all the support shown!
 
 ##
 
-#### You can support my work by "☆Star" the repo or nominate me for a "GitHub Star". Thank you!
+#### You can support my work "☆Star" in the repository or nominate me for a "GitHub Star". Thank you!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)

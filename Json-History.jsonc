@@ -1,0 +1,53 @@
+//! Json History
+
+/* The history of Json - JavaScript Object Notation dates back to the 2000s and is closely
+related to JavaScript development and the need for a lightweight, easy-to-use data format
+to exchange information between web applications. Here is a summary of the history of Json. */
+
+//* 1. **Origins in JavaScript:**
+
+/* Json is based on object notation in JavaScript. JavaScript, created by Brendan Eich in 1995, is a
+programming language that is commonly used on the client side in web applications. The notation
+of objects in JavaScript, which uses key-value pairs, served as the basis for Json. */
+
+//* 2. **Douglas Crockford and the formalization of Json:**
+
+/* Douglas Crockford, a programmer and author, played a key role in the formalization and
+Json standardization. In 2001, Crockford proposed the Json format as a lightweight alternative to XML.
+(Extensible Markup Language) for data exchange between web applications. Json is based on
+JavaScript object notation but is separated from JavaScript functions, which makes it
+independent of language. */
+
+//* 3. **Specification and standardization:**
+
+/* The formal Json specification was published in Rfc 4627 (Request for Comments) in 2006. This Rfc
+It described the structure and format of Json and provided guidelines for its use. Standardization
+helped promote the adoption of Json in a wide range of applications and web services. */
+
+//* 4. **Widespread adoption:**
+
+/* Json quickly became a popular data format due to its simplicity, readability, and
+Easy to use. It was widely used in web applications and services, and its adoption accelerated with the
+growing popularity of web APIs and the need to transmit data between client and application applications
+servers. */
+
+//* 5. **Json in NoSql databases:**
+
+/* With the rise of NoSql databases in the 2010s, Json became a data format
+common for storing structured information. Databases like MongoDb use Bson (Binary Json),
+a Json extension, to store data efficiently. */
+
+//* 6. **Programming language support:**
+
+/* Most modern programming languages have built-in support for working with Json,
+which has facilitated its use in applications on a variety of platforms. */
+
+//* 7. **Expansion to IoT and beyond:**
+
+/* Json has become a common format for exchanging data in a wide variety of
+applications, including the Internet of Things (IoT) and real-time data processing. */
+
+/* In summary, Json has seen massive adoption in the software development community due to
+to its simplicity, readability, and ability to represent structured data efficiently. Ha
+played a fundamental role in the evolution of the web and in the interoperability of applications and
+services. */

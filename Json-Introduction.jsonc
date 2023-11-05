@@ -1,0 +1,53 @@
+//! Json introduction
+
+/* Json, which means "JavaScript Object Notation" in Spanish "JavaScript Object Notation", is a
+Data exchange format widely used in the world of programming and computing.
+It was designed to be a lighter, human-readable alternative to other data formats, such as XML
+(Extensible Markup Language). Json has become a de facto standard in exchanging data between
+web applications, web services, NoSql databases and more. */
+
+//! Key Features of Json
+
+//* 1. **Simple Syntax:**
+
+/* Json uses a key-value pair structure to represent structured data. It's easy to understand
+and read by both humans and machines. The data is organized into objects (called Json objects) and
+arrays, which are nested to create more complex structures. */
+
+//* 2. **Language Independent:**
+
+/* Json is programming language independent, meaning it can be used in a wide range of applications.
+variety of platforms and systems. This makes it ideal for communication between applications written in
+different languages. */
+
+//* 3. **Supported Data Types:**
+
+/* Json supports common data types, such as numbers, strings, booleans, objects, arrays, and the
+special value `null`. */
+
+//* 4. **Wide Adoption:**
+
+/* Json has become a standard in software development. It is used in web applications,
+web services, NoSql databases and more. */
+
+//* 5. **Lightness:**
+
+/* Json is a lightweight data format compared to other formats, making it efficient in
+terms of bandwidth usage and data transfer speed. */
+
+//* 6. **Facilitates Interoperability:**
+
+/* Json is essential for communication between applications and services in web applications. Its
+simplicity and versatility facilitate interoperability and systems integration. */
+
+//* 7. **Simplifies Development:**
+
+/* Working with Json is easy. Most modern programming languages have support i
+built-in to parse and generate Json, making it easy to deploy applications that require the
+structured data exchange. */
+
+/* In short, Json is a versatile and widely adopted data format that has transformed the way we
+Applications and systems exchange information. Its simplicity, language independence and capacity
+to represent data clearly make it essential in modern software development. Whether in
+the creation of Apis, in the transmission of data in web applications or in the storage of information in
+NoSql databases, Json plays a fundamental role in today's computing. */

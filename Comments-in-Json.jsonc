@@ -1,0 +1,31 @@
+//! Comments in Json
+
+/* Json - JavaScript Object Notation is a data exchange format designed to be simple and
+efficient. Unlike some other data formats, such as XML, Json does not support comments. In Json,
+There is no standard way to include comments within the data. The Json specification does not provide
+a syntax for comments. */
+
+/* Since Json does not support comments, if you need to add comments for documentation or clarification
+in your data, it is advisable to do it outside of the Json, in the associated documentation or in the code that
+uses Json data. For example, you can use comments in your application's source code to
+explain the structure of your Json data. */
+
+// Example of comments in code (JavaScript) that explains the structure of a Json object.
+
+{
+    // Json data representing customer information
+    "name": "John",
+    "age": 30,
+    "city": "Exampleville"
+}
+
+/* Another option is to maintain a separate specification document or documentation that describes the
+structure and meanings of the fields in your Json data. */
+
+/* If you need to include metadata or additional information in your Json data, you can do so using
+additional properties within the Json object, but keep in mind that this additional data will be
+available for processing by the application and will not be considered comments. */
+
+/* In short, Json itself does not support comments. If you want to document your Json data, it is recommended
+use comments in the code or external documentation to maintain clarity and understanding
+of the data structure. */

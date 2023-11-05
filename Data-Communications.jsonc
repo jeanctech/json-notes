@@ -1,0 +1,57 @@
+//! Data Communications - Json
+
+/* Json - JavaScript Object Notation is a data exchange format widely used in
+data communications in web applications and distributed systems. Allows efficient transfer of
+structured information between heterogeneous systems. Here are some common ways Json is
+used in data communications. */
+
+//* 1. **Api Rest (Representational State Transfer):**
+
+/* In Rest APIs, Json is a format of choice to represent resources and their data. The requests
+Http generally use Json to send data in the request body (Post, Put, Path), and the
+API responses are often sent as Json. This allows efficient communication between the client
+and the server. */
+
+//* 2. **WebSocket:**
+
+/* In real-time applications that use WebSocket for two-way communication, Json is used
+to pack and unpack data sent between the client and the server. This is especially common
+in real-time chat applications, online games and other collaborative applications. */
+
+//* 3. **XmlHttpRequest (Xhr) and Fetch Api:**
+
+/* When making Ajax requests from a web browser, Json is one of the most common formats for
+send and receive data. Responses are often parsed and displayed dynamically in the user interface.
+user. */
+
+//* 4. **Real-time data transfer:**
+
+/* In applications that require continuous transfer of data in real time, such as telemetry,
+IoT (Internet of Things) and live tracking systems, Json is used to structure and
+transmit data between devices and servers. */
+
+//* 5. **Integration of cloud services:**
+
+/* When integrating third-party services or communicating with cloud services APIs, it is common for
+These services return or expect data in Json format. This facilitates the integration and exchange of
+information between applications. */
+
+//* 6. **NoSql databases:**
+
+/* Some NoSql databases, such as MongoDb, store data in Bson format (a binary extension of Json).
+This allows for efficient storage and retrieval of data in a Json-like format. */
+
+//* 7. **Communication between microservices:**
+
+/* In microservices-based architectures, Json is used to transmit data between different
+components or services. Each service can produce or consume data in Json format, which facilitates communication between them. */
+
+//* 8. **Integration of legacy systems:**
+
+/* Json is often used as an intermediate format in integrating legacy systems with systems
+modern. Legacy systems may produce or consume data in a less structured format, and Json
+It is used as a common format for exchanging data. */
+
+/* In all these cases, Json is chosen for its simplicity, readability and ease of parsing both for
+part of humans as well as machines. Additionally, most programming languages offer support for
+parse and generate Json, which makes it easy to implement in different systems. */

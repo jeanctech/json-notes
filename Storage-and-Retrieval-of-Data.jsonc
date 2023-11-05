@@ -1,0 +1,57 @@
+//! Storage and Retrieval of Data in Json
+
+/* Storing and retrieving data in Json (JavaScript Object Notation) format is one way
+common to manage structured information in web applications and software in general. Json is a format
+lightweight, easy-to-read data exchange that uses a key-value pair structure. Here
+You have a basic guide on how to perform data storage and retrieval in Json. */
+
+//* 1. **Structure of a Json file**
+
+/* Json is represented with objects and arrays. A Json object is similar to a dictionary in Python or a
+object in JavaScript. A Json array is an ordered collection of values. */
+
+// Example of a Json object
+
+    {
+      // Structure of a Json File
+         "name": "John",
+         "age": 30,
+         "city": "Exampleville",
+      // Example of a Json Array
+         "array":
+         [
+          "Apple",
+          "Banana",
+          "Orange"
+          ],
+      //Data Storage
+          "name_one": "John",
+          "age_one": 30,
+          "city_one": "Exampleville"
+     }
+
+//* 2. **Json Data Storage**
+
+/* You can store Json data in files or in databases. Here are some examples: */
+
+ // - **Storing to a Json file:** You can write Json data to a file using
+// your preferred programming language. For example, in Python.
+
+/* - **Storage in a database:** If you are using a database, many databases
+Modern data processors support Json data storage directly. You can insert Json objects in
+the database and then retrieve them as needed. */
+
+//* 3. **Json data retrieval:**
+
+/* To retrieve data from a Json file or database, simply read the data
+and analyze them. Here is an example of how to retrieve data from a Json file in Python. */
+
+//* 4. **Json data manipulation**
+
+/* You can add, modify and delete data in a Json object before storing it or after
+recover them. To do this, simply access the values using the keys and update the data
+as necessary. */
+
+/* Json is a versatile way to store structured data and is widely used in development
+of web applications and data exchange systems. You can use specific libraries in your
+Preferred programming language to work with J more efficiently and safely. */

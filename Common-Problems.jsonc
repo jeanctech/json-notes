@@ -1,0 +1,104 @@
+//! Common Problems - Json
+
+/* Despite the simplicity and wide adoption of Json (JavaScript Object Notation), there are some
+common problems that developers may face when working with JSON. Here is a list of
+common problems and how to address them. */
+
+//* 1. **Incorrect Syntax:**
+
+/* One of the most common problems is incorrect syntax in a Json document. This may be due to
+missing or extra commas, curly braces that do not close correctly, unquoted text strings, or
+typographical errors. */
+
+//! **Solution:**
+
+/* Use Json validation tools, such as Json Lint, to verify the syntax of your documents
+Json. Modern Ides also typically offer syntax highlighting and automatic error correction. */
+
+//* 2. **Incorrect Coding:**
+
+/* Make sure the Json document is encoded correctly. If encoding is used
+incorrect, it can cause problems when interpreting the Json. */
+
+//! **Solution:**
+
+/* Use UTF-8 encoding for your Json documents, as it is widely supported and recommended. */
+
+//* 3. **Misuse of Quotes:**
+
+/* Keys and text strings in Json must be enclosed in double quotes. Use single quotes u
+forgetting quotes can cause problems. */
+
+//! **Solution:**
+
+/* Make sure all keys and strings are enclosed in double quotes. */
+
+//* 4. **Duplicate Keys:**
+
+/* Json does not allow duplicate keys in the same object. */
+
+//! **Solution:**
+
+/* Make sure all keys in a Json object are unique. */
+
+//* 5. **Order of Elements:**
+
+/* Json does not guarantee a specific order of key-value pairs in an object. Depending on the context, the
+order of the elements may not be significant. */
+
+//! **Solution:**
+
+/* Don't trust the order of elements within a Json object. If order is important, consider
+use a Json array instead. */
+
+//* 6. **Incorrect Parsification:**
+
+/* When parsing (parsing) JSON in your code, it is important to handle parsification errors. A bad Json
+formed can cause exceptions in your application. */
+
+//! **Solution:**
+
+/* Use Json parsing functions provided by your programming language and handle parsing errors
+parsification correctly. */
+
+//* 7. **Excessive Data Size:**
+
+/* In some circumstances, excessive use of Json data may increase bandwidth consumption and
+affect performance. */
+
+//! **Solution:**
+
+/* Consider Json data compression if data transfer efficiency is critical. */
+
+//* 8. **Excessive Nesting:**
+
+/* Excessive nesting of objects and arrays in Json can make it difficult to read and maintain.
+code. */
+
+//! **Solution:**
+
+/* Keep the structure of your Json as simple and clear as possible. Avoid nesting objects deeply and
+arrangements if not necessary. */
+
+//* 9. **Security:**
+
+/* Security is important when receiving and parsing Json data from external sources, as the content
+Malicious can cause security problems, such as injection attacks. */
+
+//! **Solution:**
+
+/* Validates and sanitizes Json data before processing. Use safe libraries to parse Json and
+prevents the execution of malicious code. */
+
+//* 10. **Excessive File Size:**
+
+/* Json is not the ideal choice for storing large data sets due to its human-readable text.
+humans. In such cases, it is preferable to use more efficient formats such as Bson or binary protocols. */
+
+//! **Solution:**
+
+/* Evaluates whether Json is the best option for storing large amounts of data. In some cases, it may be
+necessary to use a more efficient data format. */
+
+/* In general, proper use of Json and adherence to syntax and best practices will help avoid
+most common problems associated with this data format. */

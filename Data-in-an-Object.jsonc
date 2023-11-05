@@ -1,0 +1,40 @@
+//! Data in an Object - Json
+
+/* In Json - JavaScript Object Notation, data in an object is stored in key-value pairs. Each
+key acts as a unique identifier and is followed by a colon `:` that separates the key from its
+corresponding value. Here is an example of how data is stored in a Json object. */
+
+{
+  "name": "John",
+  "age": 30,
+  "city": "Exampleville",
+  "person": {
+    "name": "John",
+    "age": 30
+  },
+  "friends": ["María", "Peter", "Anna"]
+
+}
+
+//! In this example, we have a Json object with three key-value pairs.
+
+// 1. `"name": "John"`: Here, `"name"` is the key and `"John"` is the value. The key is a string
+// (string) and the value is also a string.
+
+// 2. `"age": 30`: The `"age"` key is associated with a numeric value, in this case, `30`. The values
+// numerics do not have quotes.
+
+// 3. `"city": "Exampleville"`: Again, `"city"` is the key and `"Exampleville"` is the value, both
+// represented as strings.
+
+/* Json allows the use of different types of values as key values. In addition to strings and numbers,
+you can have nested Json objects, arrays, boolean values (`true` or `false`) and null values
+(`null`). Here is an example that includes a nested object and an array in a Json object. */
+
+// In this example, the value associated with the key `"person"` is a nested Json object with its own
+// keys (`"name"` and `"age"`), and the value associated with the key `"friends"` is a Json array containing
+// the names of friends.
+
+/* Remember that Json is a highly structured and syntax-sensitive data format. You must follow the
+formatting rules, such as using commas to separate key-value pairs and double quotes for
+keys and strings, so that the data is valid in Json. */

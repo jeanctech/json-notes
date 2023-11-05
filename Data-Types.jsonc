@@ -1,0 +1,55 @@
+//! Data Types - Json
+
+/* Json - JavaScript Object Notation supports several basic data types for representing information
+structured. Here is a description of the data types supported by Json. */
+
+//* 1. **Numbers:**
+
+// Json supports integer and floating point numbers. The numbers can be in standard decimal notation
+// (for example, `42` or `3.14`) and can include a positive or negative sign.
+
+    // Examples of numbers in Json:
+    {
+      // Examples of numbers in Json:
+      "integer_number" : 42,
+      "decimal_number" : -3.14,
+      // Examples of text strings in Json:
+      "string_one": "Hello, world",
+      "String_two" : "double quotes",
+      // Examples of booleans in Json
+      "boolean_one": true,
+      "boolean_two" : false,
+      // Example of `null` in Json
+      "varlor_null" : null
+    }
+
+//* 2. **Text Strings:**
+
+/* Text strings in Json must always be enclosed in double quotes (`"`). Strings can contain
+Unicode and escaped characters, such as escape sequences for double quotes or control characters. */
+
+//* 3. **Booleans:**
+
+/* Json supports two boolean values: `true` and `false`. These represent the states of truth and falsehood,
+respectively. */
+
+//* 4. **null:**
+
+/* The special value `null` in Json represents the absence of a value or the lack of a defined value. */
+
+//* 5. **Objects:**
+
+/* Json objects are defined within curly braces `{}` and contain key-value pairs. Keys must be strings
+text enclosed in double quotes, and the values can be any Json data type, including other
+objects or arrangements. */
+
+//* 6. **Arrangements:**
+
+/* Json arrays are defined within `[]` square brackets and contain an ordered list of values. The values
+can be any Json data type, including numbers, strings, booleans, objects, arrays, and
+`null`.
+
+/* These basic Json data types allow you to represent a wide variety of structured information
+in a simple and human-readable way. Combining JSON objects and arrays, along with these types
+data, provides a versatile way to represent and transmit data in web applications, services
+NoSql web and databases. */

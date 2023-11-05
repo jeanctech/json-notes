@@ -1,0 +1,79 @@
+//! Consume and Produce Data - Json
+
+/* Consuming and producing data in Json format is a fundamental part of application development and
+systems that interact with Apis, databases and web services. Next, I will show you how to consume
+(retrieve) and produce (send) data in Json format in the context of an application. */
+
+// **Consume Json Data (Data Retrieval):**
+
+/* 1. **Http Request:** To consume Json data from an API or web service, you must perform a
+Http request (for example, a Get request) to the API endpoint that provides the data in
+Json format. */
+
+/* 2. **Retrieve response:** Once the request is completed successfully, you will receive a response
+Http that includes Json data in the response body. You can use libraries in your language
+programming (for example, `fetch` in JavaScript, `requests` in Python) to make the request and
+retrieve the answer. */
+
+/* 3. **Parse Json:** After retrieving the response, you must parse the Json data using a
+function provided by your language library (for example, `Json.parse()` in JavaScript,
+`json.loads()` in Python) to convert the Json string into objects or data structures that you can
+use in your application. */
+
+//! JavaScript example using `fetch` to consume Json data
+
+/*
+```javascript
+fetch('https://api.example.com/data-endpoint')
+   .then(response => response.json())
+   .then(data => {
+     .// Data in Json format is available in the "data" variable
+     console.log(data);
+   });
+```
+*/
+
+// **Produce Json Data (Send Data):**
+
+/* 1. **Create a data structure:** In your application, you must first create a data structure that
+you want to send as Json. This could be an object, an array, or another data structure depending on your
+needs.
+
+2. **Serialize to Json:** Use a function provided by your language library (e.g.
+`Json.stringify()` in JavaScript, `json.dumps()` in Python) to convert the data structure into a
+Json string.
+
+3. **Send the data:** To send the Json data to an Api or web service, you must make a request
+Http (for example, a Post or Put request) to the corresponding endpoint. You must include the Json string
+in the body of the request. */
+
+//! JavaScript example using `fetch` to send Json data to an Api
+
+/*
+```javascript
+
+const dataToSend = {
+   name: "John",
+   age: 30,
+   city: "Exampleville"
+};
+
+fetch('https://api.example.com/data-endpoint', {
+   method: 'Post',
+   headers: {
+     'Content-Type': 'application/json'
+   },
+   body: Json.stringify(dataToSend)
+})
+.then(response => response.json())
+.then(data => {
+   console.log('Server response:', data);
+});
+
+```
+*/
+
+/* In short, to consume Json data, you must make Http requests to retrieve data and parse it
+in your application. To produce Json data, you must create a data structure, serialize it in Json format
+and send it via an Http request. These are the bases for working with Json in applications that
+They interact with web services and APIs. */
