@@ -1,3 +1,4 @@
+{
 //! Common Problems - Json
 
 /* Despite the simplicity and wide adoption of Json (JavaScript Object Notation), there are some
@@ -102,3 +103,5 @@ necessary to use a more efficient data format. */
 
 /* In general, proper use of Json and adherence to syntax and best practices will help avoid
 most common problems associated with this data format. */
+
+}

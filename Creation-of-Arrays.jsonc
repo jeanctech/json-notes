@@ -1,10 +1,10 @@
+{
 //! Creation of Arrays - Json
 
 /* In Json, an array is represented as an ordered collection of values, where each value can be a
 number, a string, a Json object, or even another Json array. Here is an example of how to create a
 array in Json. */
 
-{
   "names": ["John", "Mary", "Peter"],
   // You can also have a Json array as a value in a Json object. For example.
     "people": [
@@ -21,7 +21,6 @@ array in Json. */
         "age": 35
       }
     ]
-}
 
 /* In this example, we have an array called "names" that contains three string values: "John", "Mary"
 and Pedro". Each element of the array is separated by commas and placed in square brackets `[ ]`. */
@@ -33,3 +32,4 @@ and Pedro". Each element of the array is separated by commas and placed in squar
 array must be separated by commas, and the array itself must be contained in `[ ]` square brackets.
 Objects within the array must be contained in curly braces `{ }`. Json is very strict about
 its syntax, so make sure you follow the rules so that the data is valid in Json. */
+}

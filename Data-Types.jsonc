@@ -1,3 +1,4 @@
+{
 //! Data Types - Json
 
 /* Json - JavaScript Object Notation supports several basic data types for representing information
@@ -8,8 +9,8 @@ structured. Here is a description of the data types supported by Json. */
 // Json supports integer and floating point numbers. The numbers can be in standard decimal notation
 // (for example, `42` or `3.14`) and can include a positive or negative sign.
 
-    // Examples of numbers in Json:
-    {
+//! Data Types - Json
+
       // Examples of numbers in Json:
       "integer_number" : 42,
       "decimal_number" : -3.14,
@@ -21,7 +22,6 @@ structured. Here is a description of the data types supported by Json. */
       "boolean_two" : false,
       // Example of `null` in Json
       "varlor_null" : null
-    }
 
 //* 2. **Text Strings:**
 
@@ -53,3 +53,5 @@ can be any Json data type, including numbers, strings, booleans, objects, arrays
 in a simple and human-readable way. Combining JSON objects and arrays, along with these types
 data, provides a versatile way to represent and transmit data in web applications, services
 NoSql web and databases. */
+
+}

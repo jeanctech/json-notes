@@ -1,3 +1,4 @@
+{
 //! Elements Within an Array - Json
 
 /* Inside an array in Json, you can include an ordered list of elements. These elements can be
@@ -5,7 +6,6 @@ of various types, such as strings, numbers, Json objects, Json arrays, boolean v
 null values (`null`). Here is an example of how you can define elements within an array
 Json. */
 
-{
   // An Array with Few Elements
  "names": ["John", "Mary", "Peter"],
  // An Array with Several Elements
@@ -29,7 +29,6 @@ Json. */
    [4, 5, 6],
    [7, 8, 9]
  ]
-}
 
 // In this example, we have a Json array called `"names"` that contains three elements, all of them are
 // text strings.
@@ -49,3 +48,4 @@ internal is a row of data. */
 an array are separated by commas and the array itself is enclosed in square brackets `[ ]`. The objects within the
 array must be contained in curly braces `{ }` if nested Json objects are used. Each value in the array
 must be valid according to Json formatting rules. */
+}

@@ -1,3 +1,4 @@
+{
 //! Good Practices - Json
 
 /* Here are some good practices when working with Json to ensure that your data
@@ -5,15 +6,15 @@ are legible, secure and easy to maintain. */
 
 //* 1. **Maintain a consistent structure**:
 
-/* It is important to maintain a consistent Json data structure throughout your application. This facilitates the
-understanding and maintaining the code. Defines a consistent structure of objects and properties
-throughout your project. */
+/* It is important to maintain a consistent Json data structure throughout your application. This
+facilitates the understanding and maintaining the code. Defines a consistent structure of objects and
+properties throughout your project. */
 
 //* 2. **Use descriptive key names**:
 
 /* Choose descriptive and meaningful key names for your Json properties. This makes the Json
-more readable and easier to understand. For example, instead of using `"n": "John"`, it is preferable to use `"name":
-"John"`. */
+more readable and easier to understand. For example, instead of using `"n": "John"`, it is preferable to
+use `"name": "John"`. */
 
 //* 3. **Use indentation and formatting**:
 
@@ -71,5 +72,6 @@ works correctly and that the data is consistent.
 /*Avoid including redundant or unnecessary information in your Json. A lighter Json format means
 Faster data transfers and less storage space. */
 
-/* By following these best practices, you can ensure that your use of Json is efficient, secure, and easy to use.
-maintain as you develop your application or project. */
+/* By following these best practices, you can ensure that your use of Json is efficient, secure, and easy
+to use. maintain as you develop your application or project. */
+}

@@ -1,10 +1,10 @@
+{
 //! Data in an Object - Json
 
 /* In Json - JavaScript Object Notation, data in an object is stored in key-value pairs. Each
 key acts as a unique identifier and is followed by a colon `:` that separates the key from its
 corresponding value. Here is an example of how data is stored in a Json object. */
 
-{
   "name": "John",
   "age": 30,
   "city": "Exampleville",
@@ -13,8 +13,6 @@ corresponding value. Here is an example of how data is stored in a Json object. 
     "age": 30
   },
   "friends": ["María", "Peter", "Anna"]
-
-}
 
 //! In this example, we have a Json object with three key-value pairs.
 
@@ -38,3 +36,4 @@ you can have nested Json objects, arrays, boolean values (`true` or `false`) and
 /* Remember that Json is a highly structured and syntax-sensitive data format. You must follow the
 formatting rules, such as using commas to separate key-value pairs and double quotes for
 keys and strings, so that the data is valid in Json. */
+}

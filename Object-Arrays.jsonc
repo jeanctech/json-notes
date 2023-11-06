@@ -1,10 +1,11 @@
-//! Object Arrays in Json
+{
+//! Object Arrays - Json
 
 /* In Json, object arrays are used to represent ordered collections of objects, which
 It is very useful for storing and retrieving multiple related data items. Here you have a
 example of how to create object arrays in Json. */
 
-[
+"objects" : [
     {
         "name": "John",
         "age": 30,
@@ -70,3 +71,4 @@ example of how to create object arrays in Json. */
 They are widely used in information exchange in web applications and data systems
 structured. You can perform read, write, modify, and delete operations on objects on
 arrays similarly as you would on individual Json objects. */
+}

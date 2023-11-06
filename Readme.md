@@ -10,16 +10,16 @@ As an alternative to Xml, it is considered a language-independent format.
 
 ## Index
 
-* [Json Introduction](Json-Introduction.jsonc)
+* [Introduction - Json](Introduction.jsonc)
 * [Lesson 1 - Data Structure](Data-Structure.jsonc)
-* [Lesson 2 - Objects in Json](Objects-in-Json.jsonc)
-* [Lesson 3 - Arrays in Json](Arrays-in-Json.jsonc)
+* [Lesson 2 - Objects - Json](Objects.jsonc)
+* [Lesson 3 - Arrays - Json](Arrays.jsonc)
 * [Lesson 4 - Data Types](Data-Types.jsonc)
-* [Lesson 5 - Json Syntax](Json-Syntax.jsonc)
+* [Lesson 5 - Syntax - Json](Syntax.jsonc)
 * [Lesson 6 - Object Creation](Object-Creation.jsonc)
 * [Lesson 7 - Creating of Arrays](Creation-of-Arrays.jsonc)
 * [Lesson 8 - Nesting Objects and Arrays](Nesting-of-Objects-and-Arrays.jsonc)
-* [Lesson 9 - Comments in Json](Comments-in-Json.jsonc)
+* [Lesson 9 - Comments - Json](Comments.jsonc)
 * [Lesson 10 - Values inside a Json object](Values-inside-an-Object.jsonc)
 * [Lesson 11 - Elements Within an Array](Elements-Within-an-Array.jsonc)
 * [Lesson 12 - Data in an Object](Data-in-an-Object.jsonc)
@@ -28,19 +28,19 @@ As an alternative to Xml, it is considered a language-independent format.
 * [Lesson 15 - Structure of your Data](Structure-of-your-Data.jsonc)
 * [Lesson 16 - Data Communication](Data-Communications.jsonc)
 * [Lesson 17 - Storage and Retrieval of Data](Storage-and-Retrieval-of-Data.jsonc)
-* [Lesson 18 - Json Configuration](Json-Configuration.jsonc)
+* [Lesson 18 - Configuration - Json](Configuration.jsonc)
 * [Lesson 19 - Consume and Produce Data](Consume-and-Produce-Data.jsonc)
 * [Lesson 20 - Good Practices - Json](Good-Practices.jsonc)
-* [Lesson 21 - Common Problems](Common-Problems.jsonc)
-* [Lesson 22 - Json Tools](Json-Tools.jsonc)
-* [Lesson 23 - Using of Web Tokens](Use-of-Web-Tokens.jsonc)
-* [Lesson 24 - Using Json WebSockets](Using-Json-Websockets.jsonc)
-* [Lesson 25 - Uses of Json](Uses-of-Json.jsonc)
-* [Lesson 26 - Json Schema](Json-Schema.jsonc)
-* [Lesson 27 - Json Libraries](Json-Libraries.jsonc)
-* [Lesson 28 - Json History](Json-History.jsonc)
-* [Lesson 29 - Importance of Json](Importance-of-Json.jsonc)
-* [Lesson 30 - Conclusions](Json-Conclusions.jsonc)
+* [Lesson 21 - Common Problems - Json](Common-Problems.jsonc)
+* [Lesson 22 - Tools - Json](Tools.jsonc)
+* [Lesson 23 - Using of Web Tokens - Json](Using-Web-Tokens.jsonc)
+* [Lesson 24 - Using WebSockets - Json](Using-Websockets.jsonc)
+* [Lesson 25 - Uses - Json](Uses.jsonc)
+* [Lesson 26 - Schema - Json](Schema.jsonc)
+* [Lesson 27 - Libraries - ](Libraries.jsonc)
+* [Lesson 28 - History - Json](History.jsonc)
+* [Lesson 29 - Importance - Json](Importance.jsonc)
+* [Lesson 30 - Conclusions - Json](Conclusions.jsonc)
 * [Next Steps](Next-Steps.jsonc)
 
 ## Introduction
@@ -61,13 +61,13 @@ Thank you very much for all the support shown!
 
 ## Links of interest
 
-* [Json official website](https://www.json.org/json-en.html)
+* [official Json website](https://www.json.org/json-en.html)
 
-* [Official Json tutorial in Spanish](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Json)
+* [Official Json in Spanish](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Json)
 
 * [30 days Json Repo](https://github.com/json-path/JsonPath)
 
-* [FrecodeCamp game to Json](https://www.freecodecamp.org/espanol/news/tag/json/)
+* [Game Learn to Json](https://www.freecodecamp.org/espanol/news/tag/json/)
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 

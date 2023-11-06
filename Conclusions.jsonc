@@ -1,4 +1,5 @@
-//! Json Conclusions
+{
+//! Conclusions - Json
 
 /* In short, Json - JavaScript Object Notation is a widely used data exchange format
 and extremely valuable in the development of software applications and systems. Next, it
@@ -49,3 +50,4 @@ prevent security attacks, such as code injection. */
 /* In short, Json has become a de facto standard for representing structured data
 in modern applications and information systems. Its simplicity, efficiency and wide adoption make it
 be a solid choice for data communication in software development. */
+}

@@ -1,3 +1,4 @@
+{
 //! Validate Syntax - Json
 
 /* Syntax validation in Json is important to ensure that data structured in
@@ -38,3 +39,4 @@ Json Schema. */
 /* By using these tools and techniques, you can ensure that your Json documents are
 syntactically valid and comply with formatting rules. This is important to ensure a
 effective communication between systems and applications that use Json as a data format. */
+}

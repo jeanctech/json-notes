@@ -1,10 +1,10 @@
+{
 //! Nesting of Objects and Arrays in Json
 
 /* In Json, you can nest objects and arrays to represent more complex data structures. This you
 allows you to organize data in a hierarchical manner and represents a fundamental part of the flexibility and
 Json versatility. Next I show you how to nest objects and arrays in Json. */
 
-{
     // Nesting Objects
    "person": {
        "name": "John",
@@ -36,7 +36,6 @@ Json versatility. Next I show you how to nest objects and arrays in Json. */
         "ages": [28, 32]
     }
 ]
-}
 
 //* 1. **Nesting of Objects**
 
@@ -69,3 +68,4 @@ you could use */
 
 /* Note that when manipulating data nested in Json, you must ensure that you access the elements of
 safe way to avoid errors if a value does not exist in the structure. */
+}

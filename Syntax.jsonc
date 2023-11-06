@@ -1,4 +1,5 @@
-//! Json Syntax
+{
+//! Syntax - Json
 
 /* The syntax of Json - JavaScript Object Notation is quite simple and follows a set of clear rules
 to represent structured data in a human-readable and easily interpretable format
@@ -16,7 +17,6 @@ machines. Here is a description of the basic Json syntax. */
 
 // Example of a Json object
 
-{
    "name": "John",
    "age": 30,
    "city": "Example",
@@ -26,7 +26,6 @@ machines. Here is a description of the basic Json syntax. */
     "banana",
     "orange"
    ]
-}
 
 //* 2. **Json Arrays:**
 
@@ -74,3 +73,4 @@ doubles\""`. */
 well trained and comply with the aforementioned rules so that they are processed correctly by the
 applications that use it. Automatic formatting and validation tools can be useful for
 verify and maintain correct syntax in Json documents. */
+}

@@ -1,3 +1,4 @@
+{
 //! Storage and Retrieval of Data in Json
 
 /* Storing and retrieving data in Json (JavaScript Object Notation) format is one way
@@ -12,7 +13,6 @@ object in JavaScript. A Json array is an ordered collection of values. */
 
 // Example of a Json object
 
-    {
       // Structure of a Json File
          "name": "John",
          "age": 30,
@@ -28,7 +28,6 @@ object in JavaScript. A Json array is an ordered collection of values. */
           "name_one": "John",
           "age_one": 30,
           "city_one": "Exampleville"
-     }
 
 //* 2. **Json Data Storage**
 
@@ -55,3 +54,4 @@ as necessary. */
 /* Json is a versatile way to store structured data and is widely used in development
 of web applications and data exchange systems. You can use specific libraries in your
 Preferred programming language to work with J more efficiently and safely. */
+}

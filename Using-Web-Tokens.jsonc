@@ -1,7 +1,8 @@
-//! Use of Web Tokens - Json
+{
+//! Using Web Tokens - Json
 
-/* It seems that you are referring to "Web Tokens" and their relationship with Json. However, the terms "Web Tokens"
-and "Json" are not directly related to each other. Below I provide you with an explanation of
+/* It seems that you are referring to "Web Tokens" and their relationship with Json. However, the terms
+"Web Tokens" and "Json" are not directly related to each other. Below I provide you with an explanation of
 both concepts and how they can be used together: */
 
 //* 1. **Web Tokens:**
@@ -39,3 +40,4 @@ applications to access and verify user information efficiently. */
 such as Jwt, to authenticate and authorize users in web applications and web services. json se
 used to structure and represent data within web tokens, making it easier to access the
 information related to the user's identity. */
+}

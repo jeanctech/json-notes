@@ -1,3 +1,4 @@
+{
 //! Values inside an Object - Json
 
 /* Inside a Json object - JavaScript Object Notation, you can define key-value pairs. The values in
@@ -10,7 +11,8 @@ different types of values within a Json object. */
 /* To assign a text string value to a key in a JSON object, enclose the string in quotes
 double. */
 
-{
+//! Values inside an Object - Json
+
    // Text String Value
       "name": "John",
       "city": "Example",
@@ -29,7 +31,6 @@ double. */
    },
    // Value Array
    "colors": ["red", "green", "blue"]
-  }
 
 //* 2. **Numeric Value:**
 
@@ -56,3 +57,4 @@ double. */
 combine these values and nest objects and arrays as needed to represent structured data
 effectively. Json is a versatile format that allows the representation of a wide range of
 information in a key-value structure. */
+}

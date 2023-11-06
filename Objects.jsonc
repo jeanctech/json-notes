@@ -1,16 +1,15 @@
-//! Objects in Json
+{
+//! Objects - Json
 
 /* In Json (JavaScript Object Notation), objects are one of the fundamental data structures and are
 They are used to represent structured information in the form of key-value pairs. A JSON object is defined
-enclosed in braces `{}` and contains one or more key-value pairs separated by commas. Each key-value pair consists
-of a key (which must be a text string) followed by a colon (`:`) and a value. Here you have a
+enclosed in braces `{}` and contains one or more key-value pairs separated by commas. Each key-value pair
+consists of a key (which must be a text string) followed by a colon (`:`) and a value. Here you have a
 Simple example of a Json object. */
 
-{
     "name": "John",
     "age": 30,
     "city": "Example"
-}
 
 //! In this example, the JSON object has three key-value pairs:
 
@@ -45,3 +44,4 @@ allows you to represent hierarchical and structured information effectively. */
 client and a server. Json objects are human readable and at the same time are easily
 parsable by machines, making them ideal for data exchange in web programming and in
 other contexts. */
+}

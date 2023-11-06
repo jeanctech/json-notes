@@ -1,3 +1,4 @@
+{
 //! Structure of your Data - Json
 
 /* Sure, I can provide you with information about the structure of the Json data - JavaScript Object Notation
@@ -11,7 +12,6 @@ you have a basic description of the Json data structure. */
 be enclosed in double quotes and followed by a colon, followed by the associated value. Key-value pairs are
 separated by commas. Here is an example of a Json object. */
 
-{
     // Objects
        "name": "John",
        "age": 30,
@@ -33,7 +33,6 @@ separated by commas. Here is an example of a Json object. */
           "name": "Bob",
           "age": 30
       }
-   }
 
 //* 2. Arrays - Arrays
 
@@ -54,3 +53,4 @@ boolean or `null`. Here is an example of a Json array */
 configuration of web services, data exchange in web and mobile applications, storage of
 data in NoSql databases, among others. Its simplicity and readability make it widely adopted
 in software development. */
+}

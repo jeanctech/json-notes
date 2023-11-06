@@ -1,4 +1,5 @@
-//! Json History
+{
+//! History - Json
 
 /* The history of Json - JavaScript Object Notation dates back to the 2000s and is closely
 related to JavaScript development and the need for a lightweight, easy-to-use data format
@@ -51,3 +52,4 @@ applications, including the Internet of Things (IoT) and real-time data processi
 to its simplicity, readability, and ability to represent structured data efficiently. Ha
 played a fundamental role in the evolution of the web and in the interoperability of applications and
 services. */
+}

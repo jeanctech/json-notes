@@ -1,7 +1,8 @@
-//! Json Configuration
+{
+//! Configuration - Json
 
-/* You are not specifying what type of configuration you are referring to in relation to Json. The configuration of
-Json can refer to different aspects in the context of software development. Next, it
+/* You are not specifying what type of configuration you are referring to in relation to Json. The 
+configuration of Json can refer to different aspects in the context of software development. Next, it
 They detail some of the most common aspects related to Json configuration. */
 
 //* 1. **Json parsing and generation configuration:**
@@ -37,3 +38,4 @@ services. */
 /* Since Json configuration may vary depending on context, it is important to provide more details
 specifics about what you want to configure or the particular problem you need help with.
 This will allow us to provide you with a more precise and useful response. */
+}

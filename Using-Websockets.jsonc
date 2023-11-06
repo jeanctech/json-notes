@@ -1,4 +1,5 @@
-//! Using Json Websockets
+{
+//! Using Websockets - Json
 
 /* - JavaScript Object Notation and WebSockets are two technologies that are often used together to
 enable real-time two-way communication between web applications. WebSockets provide
@@ -61,3 +62,4 @@ real, which is essential in a variety of use cases, from messaging to data track
 and device control. Json provides a readable and easy-to-parse data structure, which
 makes it a popular choice for transmitting structured information in applications that use
 WebSockets. */
+}

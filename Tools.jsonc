@@ -1,10 +1,11 @@
-//! Json Tools
+{
+//! Tools - Json
 
 /* There are many tools and resources available to work with Json data on various platforms
 and programming languages. Here I mention some of the most common and useful tools to work with.
 with Json. */
 
-//* 1. **Text Editors and IDEs (Integrated Development Environments):**
+//* 1. **Text Editors and Ides (Integrated Development Environments):**
 
     /* - Visual Studio Code: A highly customizable code editor with built-in support for Json.
     It offers syntax highlighting, automatic formatting, and Json-related extensions. */
@@ -64,3 +65,4 @@ with Json. */
 /* These are just some of the tools you can use to work with Json in different
 contexts. The choice of tool will depend on your specific needs and the technology with which you are
 using. that you are working. */
+}

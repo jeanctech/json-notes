@@ -1,4 +1,5 @@
-//! Json Schema
+{
+//! Schema - Json
 
 /* Unlike some data formats like Xml, Json itself does not define a formal schema for
 validate the data structure. In its basic form, Json is flexible and allows a wide variety of
@@ -15,9 +16,8 @@ Provides a way to specify the structure, data types, and validation constraints 
 Json document. You can define a Json schema that describes how the data should be structured in your
 application. */
 
-    // Json Schema example:
+    // Json Schema Example
 
-    {
       "type": "object",
       "properties": {
         "name": { "type": "string" },
@@ -25,7 +25,6 @@ application. */
         "city": { "type": "string" }
       },
       "required": ["name", "age"]
-    }
 
 //* 2. **Documentation and specification:**
 
@@ -50,3 +49,4 @@ application. If you need rigorous and structured validation, Json Schema is a so
 Validation is simpler, you can opt for documentation or custom validation. In any
 case, it is important to ensure that the Json data used in your application meets the requirements of
 necessary structure and quality. */
+}

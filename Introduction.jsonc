@@ -1,4 +1,5 @@
-//! Json introduction
+{
+//! Introduction - Json
 
 /* Json, which means "JavaScript Object Notation" in Spanish "JavaScript Object Notation", is a
 Data exchange format widely used in the world of programming and computing.
@@ -51,3 +52,4 @@ Applications and systems exchange information. Its simplicity, language independ
 to represent data clearly make it essential in modern software development. Whether in
 the creation of Apis, in the transmission of data in web applications or in the storage of information in
 NoSql databases, Json plays a fundamental role in today's computing. */
+}

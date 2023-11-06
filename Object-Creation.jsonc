@@ -1,3 +1,4 @@
+{
 //! Object Creation - Json
 
 /* In Json (JavaScript Object Notation), object creation is done by defining key-value pairs
@@ -5,7 +6,6 @@ inside braces `{}`. Each key-value pair consists of a key (a string) followed by
 worth. Json objects can contain one or more key-value pairs. Here is an example of how to create a
 Json object. */
 
-{
   "name": "John",
   "age": 30,
   "city": "Exampleville",
@@ -17,7 +17,6 @@ Json object. */
     "city": "Exampleville"
   },
   "friends": ["María", "Peter", "Anna"]
-}
 
 // !In this example, we have created a Json object with three key-value pairs:
 
@@ -40,3 +39,4 @@ Json object. */
 key-value pair is separated by commas, and the object itself is enclosed in curly braces `{}`. key chains
 must be enclosed in double quotes, and the values can be strings, numbers, objects, arrays, or values
 boolean (true or false) or null (null). */
+}
