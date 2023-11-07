@@ -4,9 +4,7 @@
 
 ## What is Json?
 
-Json JavaScript object notation is a simple text format for exchanging data. It's a
-subset of JavaScript's object literal notation, although due to its widespread adoption
-As an alternative to Xml, it is considered a language-independent format.
+Json JavaScript object notation is a simple text format for exchanging data. It's a subset of JavaScript's object literal notation, although due to its widespread adoption As an alternative to Xml, it is considered a language-independent format.
 
 ## Index
 
@@ -45,27 +43,20 @@ As an alternative to Xml, it is considered a language-independent format.
 
 ## Introduction
 
-One of the supposed advantages of Json over Xml as a data exchange format is that it is much more
-easy to write a parser for it. In JavaScript, a Json text can be easily parsed using the
-eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been
-essential for it to have been accepted by the Ajax developer community.
+One of the supposed advantages of Json over Xml as a data exchange format is that it is much more easy to write a parser for it. In JavaScript, a Json text can be easily parsed using the eval() function, something that - due to the ubiquity of JavaScript in almost any web browser - has been essential for it to have been accepted by the Ajax developer community.
 
 ## Important information and frequently asked questions
 
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was
-the initial objective of the project. And then I don't rule out adding new lessons in the future, but I think that
-For now, it can serve as a base for anyone who wants to start learning this language.
-
-*As soon as the course continues I will update the repository and notify the networks.
-Thank you very much for all the support shown!
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And then I don't rule out adding new lessons in the future, but I think that For now, it can serve as a base for anyone who wants to start learning this language.
+As soon as the course continues I will update the repository and notify the networks. Thank you very much for all the support shown!
 
 ## Links of interest
 
-* [official Json website](https://www.json.org/json-en.html)
+* [Official Json Website](https://www.json.org/json-en.html)
 
 * [Official Json in Spanish](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Json)
 
-* [30 days Json Repo](https://github.com/json-path/JsonPath)
+* [30 days Json Repository](https://github.com/json-path/JsonPath)
 
 * [Game Learn to Json](https://www.freecodecamp.org/espanol/news/tag/json/)
 
