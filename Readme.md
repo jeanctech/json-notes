@@ -1,6 +1,8 @@
 # Json - Documentation
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Json?
 
@@ -8,16 +10,16 @@ Json JavaScript object notation is a simple text format for exchanging data. It'
 
 ## Index
 
-* [Introduction - Json](Introduction.jsonc)
+* [Introduction](Introduction.jsonc)
 * [Lesson 1 - Data Structure](Data-Structure.jsonc)
-* [Lesson 2 - Objects - Json](Objects.jsonc)
-* [Lesson 3 - Arrays - Json](Arrays.jsonc)
+* [Lesson 2 - Objects](Objects.jsonc)
+* [Lesson 3 - Arrays](Arrays.jsonc)
 * [Lesson 4 - Data Types](Data-Types.jsonc)
-* [Lesson 5 - Syntax - Json](Syntax.jsonc)
+* [Lesson 5 - Syntax](Syntax.jsonc)
 * [Lesson 6 - Object Creation](Object-Creation.jsonc)
 * [Lesson 7 - Creating of Arrays](Creation-of-Arrays.jsonc)
 * [Lesson 8 - Nesting Objects and Arrays](Nesting-of-Objects-and-Arrays.jsonc)
-* [Lesson 9 - Comments - Json](Comments.jsonc)
+* [Lesson 9 - Comments](Comments.jsonc)
 * [Lesson 10 - Values inside a Json object](Values-inside-an-Object.jsonc)
 * [Lesson 11 - Elements Within an Array](Elements-Within-an-Array.jsonc)
 * [Lesson 12 - Data in an Object](Data-in-an-Object.jsonc)
@@ -26,19 +28,19 @@ Json JavaScript object notation is a simple text format for exchanging data. It'
 * [Lesson 15 - Structure of your Data](Structure-of-your-Data.jsonc)
 * [Lesson 16 - Data Communication](Data-Communications.jsonc)
 * [Lesson 17 - Storage and Retrieval of Data](Storage-and-Retrieval-of-Data.jsonc)
-* [Lesson 18 - Configuration - Json](Configuration.jsonc)
+* [Lesson 18 - Configuration](Configuration.jsonc)
 * [Lesson 19 - Consume and Produce Data](Consume-and-Produce-Data.jsonc)
-* [Lesson 20 - Good Practices - Json](Good-Practices.jsonc)
-* [Lesson 21 - Common Problems - Json](Common-Problems.jsonc)
+* [Lesson 20 - Good Practices](Good-Practices.jsonc)
+* [Lesson 21 - Common Problems](Common-Problems.jsonc)
 * [Lesson 22 - Tools - Json](Tools.jsonc)
-* [Lesson 23 - Using of Web Tokens - Json](Using-Web-Tokens.jsonc)
-* [Lesson 24 - Using WebSockets - Json](Using-Websockets.jsonc)
-* [Lesson 25 - Uses - Json](Uses.jsonc)
-* [Lesson 26 - Schema - Json](Schema.jsonc)
-* [Lesson 27 - Libraries - ](Libraries.jsonc)
-* [Lesson 28 - History - Json](History.jsonc)
-* [Lesson 29 - Importance - Json](Importance.jsonc)
-* [Lesson 30 - Conclusions - Json](Conclusions.jsonc)
+* [Lesson 23 - Using of Web Tokens](Using-Web-Tokens.jsonc)
+* [Lesson 24 - Using WebSockets](Using-Websockets.jsonc)
+* [Lesson 25 - Uses](Uses.jsonc)
+* [Lesson 26 - Schema](Schema.jsonc)
+* [Lesson 27 - Libraries](Libraries.jsonc)
+* [Lesson 28 - History](History.jsonc)
+* [Lesson 29 - Importance](Importance.jsonc)
+* [Lesson 30 - Conclusions](Conclusions.jsonc)
 * [Next Steps](Next-Steps.jsonc)
 
 ## Introduction
@@ -47,8 +49,10 @@ One of the supposed advantages of Json over Xml as a data exchange format is tha
 
 ## Important information and frequently asked questions
 
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And then I don't rule out adding new lessons in the future, but I think that For now, it can serve as a base for anyone who wants to start learning this language.
-As soon as the course continues I will update the repository and notify the networks. Thank you very much for all the support shown!
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial goal of the project. And then I don't rule out adding new lessons in the future, but I think that for now it can serve as a basis for anyone who wants to start learning this language.
+
+* As soon as the course continues I will update the repository and notify the networks.
+Thank you very much for all the support shown!
 
 ## Links of interest
 
