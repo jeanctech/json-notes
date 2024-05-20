@@ -1,5 +1,5 @@
 {
-//! Introduction - Json
+//? Introduction - Json
 
 /* Json, which means "JavaScript Object Notation" in Spanish "JavaScript Object Notation", is a
 Data exchange format widely used in the world of programming and computing.
@@ -7,7 +7,7 @@ It was designed to be a lighter, human-readable alternative to other data format
 (Extensible Markup Language). Json has become a de facto standard in exchanging data between
 web applications, web services, NoSql databases and more. */
 
-//! Key Features of Json
+//? Key Features of Json
 
 //* 1. **Simple Syntax:**
 

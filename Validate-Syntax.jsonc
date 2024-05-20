@@ -1,5 +1,5 @@
 {
-//! Validate Syntax - Json
+//? Validate Syntax - Json
 
 /* Syntax validation in Json is important to ensure that data structured in
 Json are correct and comply with the syntax rules. Below are some ways to

@@ -1,5 +1,5 @@
 {
-//! Data Types - Json
+//? Data Types - Json
 
 /* Json - JavaScript Object Notation supports several basic data types for representing information
 structured. Here is a description of the data types supported by Json. */
@@ -9,7 +9,7 @@ structured. Here is a description of the data types supported by Json. */
 // Json supports integer and floating point numbers. The numbers can be in standard decimal notation
 // (for example, `42` or `3.14`) and can include a positive or negative sign.
 
-//! Data Types - Json
+//? Data Types - Json
 
       // Examples of numbers in Json:
       "integer_number" : 42,

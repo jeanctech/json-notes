@@ -1,5 +1,5 @@
 {
-//! Structure of your Data - Json
+//? Structure of your Data - Json
 
 /* Sure, I can provide you with information about the structure of the Json data - JavaScript Object Notation
 Json is a lightweight, human-readable data exchange format commonly used for
@@ -42,7 +42,7 @@ boolean or `null`. Here is an example of a Json array */
 
 //* 3. Values
 
-// !Values in Json can be
+//? Values in Json can be
 
 // - Numbers (integer or floating point).
 // - Text strings (always enclosed in double quotes).

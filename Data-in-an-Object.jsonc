@@ -1,5 +1,5 @@
 {
-//! Data in an Object - Json
+//? Data in an Object - Json
 
 /* In Json - JavaScript Object Notation, data in an object is stored in key-value pairs. Each
 key acts as a unique identifier and is followed by a colon `:` that separates the key from its
@@ -14,7 +14,7 @@ corresponding value. Here is an example of how data is stored in a Json object. 
   },
   "friends": ["María", "Peter", "Anna"]
 
-//! In this example, we have a Json object with three key-value pairs.
+//? In this example, we have a Json object with three key-value pairs.
 
 // 1. `"name": "John"`: Here, `"name"` is the key and `"John"` is the value. The key is a string
 // (string) and the value is also a string.

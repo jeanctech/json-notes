@@ -1,5 +1,5 @@
 {
-//! Consume and Produce Data - Json
+//? Consume and Produce Data - Json
 
 /* Consuming and producing data in Json format is a fundamental part of application development and
 systems that interact with Apis, databases and web services. Next, I will show you how to consume
@@ -21,7 +21,7 @@ function provided by your language library (for example, `Json.parse()` in JavaS
 `json.loads()` in Python) to convert the Json string into objects or data structures that you can
 use in your application. */
 
-//! JavaScript example using `fetch` to consume Json data
+//? JavaScript example using `fetch` to consume Json data
 
 /*
 ```javascript
@@ -48,7 +48,7 @@ Json string.
 Http (for example, a Post or Put request) to the corresponding endpoint. You must include the Json string
 in the body of the request. */
 
-//! JavaScript example using `fetch` to send Json data to an Api
+//? JavaScript example using `fetch` to send Json data to an Api
 
 /*
 ```javascript

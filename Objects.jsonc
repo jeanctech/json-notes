@@ -1,5 +1,5 @@
 {
-//! Objects - Json
+//? Objects - Json
 
 /* In Json (JavaScript Object Notation), objects are one of the fundamental data structures and are
 They are used to represent structured information in the form of key-value pairs. A JSON object is defined
@@ -11,7 +11,7 @@ Simple example of a Json object. */
     "age": 30,
     "city": "Example"
 
-//! In this example, the JSON object has three key-value pairs:
+//? In this example, the JSON object has three key-value pairs:
 
 //* 1. `"name": "John"`: The key is "name" and the value is "John".
 //* 2. `"age": 30`: The key is "age" and the value is 30.

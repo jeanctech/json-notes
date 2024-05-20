@@ -1,5 +1,5 @@
 {
-//! Schema - Json
+//? Schema - Json
 
 /* Unlike some data formats like Xml, Json itself does not define a formal schema for
 validate the data structure. In its basic form, Json is flexible and allows a wide variety of
