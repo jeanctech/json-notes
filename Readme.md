@@ -45,7 +45,7 @@
 - [30 days of JSON](https://github.com/json-path/JsonPath)
 - [Game Learn to JSON](https://www.freecodecamp.org/espanol/news/tag/json/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [JSON Ai](https://www.jsondataai.com/) - Json Ai
+- [JSON Ai](https://www.jsondataai.com/)
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/)
 - [JSON Editor](https://jsoneditoronline.org/)
 
