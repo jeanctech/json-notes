@@ -1,0 +1,62 @@
+{
+    //* Object Arrays - JSON
+    /* In JSON, object arrays are used to represent ordered collections of objects, which
+It is very useful for storing and retrieving multiple related data items. Here you have a
+example of how to create object arrays in JSON. */
+    "objects": [
+        {
+            "name": "John",
+            "age": 30,
+            "city": "Exampleville"
+        },
+        {
+            "name": "Mary",
+            "age": 28,
+            "city": "Exampleville"
+        },
+        {
+            "name": "Peter",
+            "age": 35,
+            "city": "Another city"
+        },
+        // Object Arrays - JSON
+        [
+            {
+                "name": "John",
+                "age": 30,
+                "city": "Exampleville"
+            },
+            {
+                "name": "Mary",
+                "age": 28,
+                "city": "Exampleville"
+            }
+        ]
+    ]
+    // In the example above, we have an array that contains three objects. Each object represents
+    // information about a person, including their name, age, and city.
+    // Here are some key things to keep in mind when working with arrays of objects in JSON.
+    // 1. **Syntax:**
+    /* Arrays are defined using square brackets (`[]`) and objects are separated by commas. /*
+
+    /// 2. **Objects in the array:**
+
+    Each element within the array is a complete JSON object with its own key-value pairs. /*
+
+    /// 3. **Access to elements:**
+
+    /* You can access individual elements within the array using indexes. The first element
+    has an index of 0, the second an index of 1, and so on. For example, to access the
+    second object in the array, you would use `[1]`. */
+    // 4. **Iteration:**
+    /* You can loop through an array of objects to process each element separately.
+    Depending on the programming language you are using, this is done differently. */
+    // For example, in JavaScript, you can access array elements and their properties as follows
+    // manner.
+    // Access the name of the first object
+    // Iterate through the array and print the names
+    /* Arrays of objects in JSON are a common way to represent related sets of data, and
+They are widely used in information exchange in web applications and data systems
+structured. You can perform read, write, modify, and delete operations on objects on
+arrays similarly as you would on individual JSON objects. */
+}

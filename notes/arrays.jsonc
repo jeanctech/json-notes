@@ -1,0 +1,62 @@
+{
+    //* Arrays - JSON
+    /* JSON - JavaScript Object Notation) is a data exchange format that does not support data structures.
+multidimensional data like arrays directly. Instead of arrays, JSON uses objects and
+arrangements to represent structured data. However, it is possible to emulate arrays using arrays
+nested in JSON. Here is an explanation of how to do it. */
+    /* In JSON, an object is represented by curly braces `{}` and contains key-value pairs. An arrangement is
+represented enclosed in square brackets `[]` and contains an ordered list of values. To emulate an array,
+you can use a JSON array where the elements of the array are stored as elements within that array. These
+Elements can be other nested arrays to emulate a multidimensional array structure. */
+    // For example, consider a two-dimensional array in JavaScript that represents a grid of numbers:
+    // Array in JSON
+    "array": [
+        [
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6
+        ],
+        [
+            7,
+            8,
+            9
+        ]
+    ],
+    // Rows in Arrays in JSON
+    "rows": [
+        {
+            "data": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "data": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "data": [
+                7,
+                8,
+                9
+            ]
+        }
+    ]
+    /* Each row of the matrix is represented as an array nested within the main array. This
+way, you can emulate a multidimensional array structure in JSON. */
+    /* If you need to represent additional information or labels for rows or columns, you can use objects
+JSON to achieve it. For example: */
+    /* This example uses an object with a "rows" property that contains a list of objects, each
+one of which has a "data" property that stores the row values as an array. */
+    /* Remember that, in JSON, all property names and strings must be enclosed in double quotes, and
+numbers, booleans, and null values should not be enclosed in quotes. */
+}

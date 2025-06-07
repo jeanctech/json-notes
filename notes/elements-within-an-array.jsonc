@@ -1,0 +1,62 @@
+{
+  //* Elements Within an Array - JSON
+  /* Inside an array in JSON, you can include an ordered list of elements. These elements can be
+of various types, such as strings, numbers, JSON objects, JSON arrays, boolean values (`true` or `false`), and
+null values (`null`). Here is an example of how you can define elements within an array
+JSON. */
+  // An Array with Few Elements
+  "names": [
+    "John",
+    "Mary",
+    "Peter"
+  ],
+  // An Array with Several Elements
+  "people": [
+    {
+      "name": "John",
+      "age": 30
+    },
+    {
+      "name": "Mary",
+      "age": 28
+    },
+    {
+      "name": "Peter",
+      "age": 35
+    }
+  ],
+  // An Array with Numerical Elements
+  "data": [
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9
+    ]
+  ]
+  // In this example, we have a JSON array called `"names"` that contains three elements, all of them are
+  // text strings.
+  /* To include more complex elements, such as nested JSON objects or JSON arrays, you can do it as follows:
+Following way:
+
+In this case, the JSON array `"people"` contains JSON objects nested as elements. each object
+represents information about a person and contains key-value pairs, such as `"name"` and `"age"`.
+
+You can also have arrays as elements inside an array, as shown below:
+
+In this example, the JSON array `"data"` contains three arrays as elements. Each of the matrices
+internal is a row of data. */
+  /* Remember that JSON is a structured data format that follows a specific syntax. The elements in
+an array are separated by commas and the array itself is enclosed in square brackets `[ ]`. The objects within the
+array must be contained in curly braces `{ }` if nested JSON objects are used. Each value in the array
+must be valid according to JSON formatting rules. */
+}

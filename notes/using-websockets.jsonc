@@ -1,0 +1,49 @@
+{
+    //* Using Websockets - JSON
+    /* - JavaScript Object Notation and WebSockets are two technologies that are often used together to
+enable real-time two-way communication between web applications. WebSockets provide
+a persistent, low-latency connection between the client and the server, while JSON is used to
+structure and transmit data over this connection. Some of the uses are explained below.
+JSON commons in combination with WebSockets. */
+    // 1. **Real Time Message Exchange:**
+    /* WebSockets allow the transmission of messages in real time between the client and the server. JSON
+used to structure these messages so that they can contain structured information.
+For example, in a real-time chat application, messages sent via WebSockets
+They can be in JSON format to include the message content, sender, timestamp, etc. */
+    // 2. **Real Time Notifications:**
+    /* Web applications often use WebSockets and JSON to send real-time notifications to users.
+users. This could include notifications of new messages, content updates, email alerts.
+events, etc. JSON is used to structure information related to notifications. */
+    // 3. **Multiplayer Games:**
+    /* In multiplayer online games, JSON is used to transmit game data, such as the position of
+players, game events, results and other game-related data. WebSockets guarantee a
+real-time communication, and JSON is used to define the communication protocol and structure the
+game data. */
+    // 4. **Real Time Data Update:**
+    /* Business and data tracking applications can use WebSockets to update the
+real time data. JSON is used to transmit updated data, such as changes in the status of
+inventory, sensor updates, changes in the financial market, etc. */
+    // 5. **Real Time Collaboration:**
+    /* Collaboration applications, such as online office suites and collaborative whiteboards,
+They use WebSockets to allow users to collaborate in real time on documents and projects. JSON
+It is used to transmit changes made by users and synchronize information. */
+    // 6. **Monitoring and Control of IoT Devices:**
+    /* In the context of the Internet of Things (IoT), WebSockets are used to monitor and control
+devices in real time. JSON is used to transmit sensor data, control commands and other
+relevant information.
+
+/// 7. **Instant Messaging Systems:**
+
+/* In instant messaging applications, WebSockets and JSON are used to enable communication
+in real time between users. JSON structures chat messages, including text, sender,
+recipient, timestamps, etc. */
+    // 8. **Real-Time Data Api:**
+    /* Real-time data Apis, such as those that provide financial, weather and
+tracking, use WebSockets and JSON to provide updated data in real time to applications and
+websites. */
+    /* By combining WebSockets and JSON, web applications can achieve efficient and timely communication
+real, which is essential in a variety of use cases, from messaging to data tracking
+and device control. JSON provides a readable and easy-to-parse data structure, which
+makes it a popular choice for transmitting structured information in applications that use
+WebSockets. */
+}

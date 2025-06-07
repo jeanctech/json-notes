@@ -1,0 +1,35 @@
+{
+    //* Objects - JSON
+    /* In JSON (JavaScript Object Notation), objects are one of the fundamental data structures and are
+They are used to represent structured information in the form of key-value pairs. A JSON object is defined
+enclosed in braces `{}` and contains one or more key-value pairs separated by commas. Each key-value pair
+consists of a key (which must be a text string) followed by a colon (`:`) and a value. Here you have a
+Simple example of a JSON object. */
+    "name": "John",
+    "age": 30,
+    "city": "Example"
+    // In this example, the JSON object has three key-value pairs:
+    // 1. `"name": "John"`: The key is "name" and the value is "John".
+    // 2. `"age": 30`: The key is "age" and the value is 30.
+    // 3. `"city": "Example"`: The key is "city" and the value is "Example".
+    /* Some key features of JSON objects include:
+
+/// 1. **Unique keys:**
+
+/* Keys in a JSON object must be unique within the same object. This means that there cannot be
+two key-value pairs with the same key in the same object. */
+    /// 2. **Various values:**
+    /* Values in a JSON object can be of different types, such as text strings, numbers, booleans,
+nested objects, arrays and `null`. */
+    // 3. **Order of key-value pairs:**
+    /* JSON does not guarantee a specific order of key-value pairs within an object. Although most of
+JSON implementations maintain the order in which pairs are defined, you should not depend on that order,
+since it is not a feature guaranteed by the specification. */
+    // 4. **Nesting:**
+    /* You can nest objects inside other objects to represent more complex data structures. This
+allows you to represent hierarchical and structured information effectively. */
+    /* JSON objects are widely used in web applications and in transferring data between a
+client and a server. JSON objects are human readable and at the same time are easily
+parsable by machines, making them ideal for data exchange in web programming and in
+other contexts. */
+}

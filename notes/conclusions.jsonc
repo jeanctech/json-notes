@@ -1,0 +1,35 @@
+{
+    //* Conclusions - JSON
+    /* In short, JSON - JavaScript Object Notation is a widely used data exchange format
+and extremely valuable in the development of software applications and systems. Next, it
+present some key takeaways about JSON. */
+    // 1. **Simplicity and readability:**
+    /* JSON is a simple and easy to understand format. Its structure based on key-value pairs and the capacity
+Nesting objects and arrays make it ideal for representing structured data. */
+    // 2. **Wide adoption:**
+    /* JSON is widely used in web applications, Rest APIs, NoSql databases, communications between
+systems and more. It is a common way of exchanging data between different software components and
+services on the Internet. */
+    // 3. **Multi-platform support:**
+    /* JSON can be used in a variety of programming languages, and most languages
+provide libraries to parse and generate JSON, making it easy to deploy on systems
+heterogeneous. */
+    // 4. **Data transfer efficiency:**
+    /* JSON is efficient in transferring data due to its
+light format. This makes it a solid choice for data communication over the network. */
+    // 5. **Flexible structure:**
+    /* JSON allows nesting of objects and arrays, making it easier to represent complex data
+and structured hierarchically. */
+    // 6. **Easy human readability:**
+    /* JSON data is human-readable, making it easy to debug and inspect data without
+need for special tools. */
+    // 7. **No comments allowed:**
+    /* Although there is no comment syntax, it is possible to document the structure and purpose of comments.
+JSON data in the code documentation or in external documents. */
+    // 8. **Security:**
+    /* As with any data exchange, it is important to validate and sanitize JSON data to
+prevent security attacks, such as code injection. */
+    /* In short, JSON has become a de facto standard for representing structured data
+in modern applications and information systems. Its simplicity, efficiency and wide adoption make it
+be a solid choice for data communication in software development. */
+}

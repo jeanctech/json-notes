@@ -1,0 +1,41 @@
+{
+      //* Data Types - JSON
+      /* JSON - JavaScript Object Notation supports several basic data types for representing information
+structured. Here is a description of the data types supported by JSON. */
+      // 1. **Numbers:**
+      // JSON supports integer and floating point numbers. The numbers can be in standard decimal notation
+      // (for example, `42` or `3.14`) and can include a positive or negative sign.
+      // Data Types - JSON
+      // Examples of numbers in JSON:
+      "integer_number": 42,
+      "decimal_number": -3.14,
+      // Examples of text strings in JSON:
+      "string_one": "Hello, world",
+      "String_two": "double quotes",
+      // Examples of booleans in JSON
+      "boolean_one": true,
+      "boolean_two": false,
+      // Example of `null` in JSON
+      "varlor_null": null
+      // 2. **Text Strings:**
+      /* Text strings in JSON must always be enclosed in double quotes (`"`). Strings can contain
+Unicode and escaped characters, such as escape sequences for double quotes or control characters. */
+      // 3. **Booleans:**
+      /* JSON supports two boolean values: `true` and `false`. These represent the states of truth and falsehood,
+respectively. */
+      // 4. **null:**
+      /* The special value `null` in JSON represents the absence of a value or the lack of a defined value. */
+      // 5. **Objects:**
+      /* JSON objects are defined within curly braces `{}` and contain key-value pairs. Keys must be strings
+text enclosed in double quotes, and the values can be any JSON data type, including other
+objects or arrangements. */
+      // 6. **Arrangements:**
+      /* JSON arrays are defined within `[]` square brackets and contain an ordered list of values. The values
+can be any JSON data type, including numbers, strings, booleans, objects, arrays, and
+`null`.
+
+/* These basic JSON data types allow you to represent a wide variety of structured information
+in a simple and human-readable way. Combining JSON objects and arrays, along with these types
+data, provides a versatile way to represent and transmit data in web applications, services
+NoSql web and databases. */
+}

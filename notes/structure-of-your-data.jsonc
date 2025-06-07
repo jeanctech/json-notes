@@ -1,0 +1,52 @@
+{
+    //* Structure of your Data - JSON
+    /* Sure, I can provide you with information about the structure of the JSON data - JavaScript Object Notation
+JSON is a lightweight, human-readable data exchange format commonly used for
+transmit data between a client application and a server, or to store structured data. Here
+you have a basic description of the JSON data structure. */
+    // 1. Objects - Objects
+    /* Objects in JSON are defined using curly braces `{}` and contain key-value pairs. Each key must
+be enclosed in double quotes and followed by a colon, followed by the associated value. Key-value pairs are
+separated by commas. Here is an example of a JSON object. */
+    // Objects
+    "name": "John",
+    "age": 30,
+    "city": "Example",
+    // Arrays
+    "array": [
+        "apple",
+        "banana",
+        "orange"
+    ],
+    // JSON with an object containing an array of numbers.
+    "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    // JSON with an array of objects.
+    "person 1": {
+        "name": "Alice",
+        "age": 25
+    },
+    "person_2": {
+        "name": "Bob",
+        "age": 30
+    }
+    // 2. Arrays - Arrays
+    /* Arrays in JSON are defined using `[]` square brackets and contain an ordered list of values
+separated by commas. The values in an array can be JSON objects, arrays, numbers, strings,
+boolean or `null`. Here is an example of a JSON array */
+    // 3. Values
+    // Values in JSON can be
+    // - Numbers (integer or floating point).
+    // - Text strings (always enclosed in double quotes).
+    // - Booleans (`true` or `false`).
+    // - `null` (represents a null value).
+    /* JSON is a very versatile data format and is used in a variety of applications, including
+configuration of web services, data exchange in web and mobile applications, storage of
+data in NoSql databases, among others. Its simplicity and readability make it widely adopted
+in software development. */
+}

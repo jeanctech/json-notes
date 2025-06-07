@@ -1,0 +1,38 @@
+{
+    //* Libraries - JSON
+    /* There are many libraries and modules available in various programming languages that allow you
+work with JSON more efficiently and effectively. These libraries provide functions for
+parse (parse) JSON data, generate JSON data, manipulate JSON objects, and perform other operations
+related to JSON. Next, I will mention some of the most common libraries to work with
+with JSON in different languages. */
+    // 1. **JavaScript**:
+    /* - `JSON.parse()`: JavaScript has native support for working with JSON. You can use `JSON.parse()`
+   to parse a JSON string into a JavaScript object. */
+    /* - `JSON.stringify()`: This function is used to convert a JavaScript object to a string
+    JSON. */
+    // 2. **Python**:
+    /* - `JSON` (standard module): Python includes a standard `JSON` module that allows you to load (parse)
+     and save (serialize) JSON data. You can use `JSON.loads()` to load JSON data and `JSON.dumps()`
+     to serialize data to JSON. */
+    /* - `simpleJSON`: An alternative to `JSON` that is faster in certain cases and provides
+    additional characteristics. */
+    // 3. **Java**:
+    /* - `Jackson`: Jackson is one of the most popular JSON libraries for Java. Provides analysis
+    and efficient JSON generation and is widely used in Java projects. */
+    /* - `Gson`: Another very popular Java library for working with JSON. It is especially useful for
+    convert Java objects to JSON and vice versa. */
+    // 4. **C# (C Sharp)**:
+    /* - `Newtonsoft.JSON` (JSON.Net): JSON.Net is a widely used library in the ecosystem of
+    .Net development. Provides JSON parsing and generation, plus advanced features for
+    work with JSON flexibly. */
+    // 5. **Ruby**:
+    /* - `JSON` (standard module): Ruby includes a standard JSON module that allows you to parse and generate
+    JSON. You can use `JSON.parse()` to parse JSON and `JSON.generate()` to generate JSON. */
+    // 6. **Php**:
+    /* - `JSON_encode()` and `JSON_decode()`: Php provides native functions to work with JSON.
+     `JSON_encode()` is used to convert PHP data structures to JSON, and `JSON_decode()` is used to
+     parse JSON data into Php objects or arrays. */
+    /* These are just some of the libraries and functions available in various programming languages
+to work with JSON. Depending on your project and programming language, you can choose the library
+that best suits your needs and preferences. */
+}
